@@ -1,0 +1,54 @@
+<resources>
+
+    <string name="app_name">Iriana Garage</string>
+    <string name="intro_irianaGarage">
+        Pilih kendaraan yang anda sukai!
+    </string>
+
+    <string name="scoopy">Scoopy</string>
+    <string name="vario">Vario</string>
+    <string name="n_max">Nmax</string>
+    <string name="beat">Beat</string>
+
+
+    <string name="time1">12 jam</string>
+    <string name="time2">24 jam</string>
+    <string name="time3">1 – 2 hari</string>
+    <string name="time4">2 – 4 hari</string>
+    <string name="time5">1 minggu</string>
+
+
+    <string name="jumlah">Jumlah Kendaraan</string>
+    <string name="harga">Jam</string>
+
+
+    <string name="hitung">Hitung</string>
+    <string name="setel_ulang">Reset</string>
+
+
+    <string name="total_harga">Total Harga : %1$.2f</string>
+    <string name="masukan_tidak_valid">Tidak Boleh Kosong.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">
+        \nJumlah Pesanan : %1$s Pcs
+        \nJenis Kendaraan : %2$s
+        \nLama Pemakaian : %3$s
+        \nTotal Harga : Rp %4$s
+    </string>
+
+
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">
+        Iriana Garage merupakan Aplikasi Android Rental Motor
+        yang dimana aplikasi ini memudahkan admin dan customer
+        dalam pemesanan rental motor sehingga customer tidak perlu
+        lagi harus berkomunikasi dengan admin melalui via wa atau lainnya.
+
+        \n\nAplikasi ini dibuat untuk Asessment 1 Mobpro.
+        \nCopyright © 2021 - 2024 Gari Iriana.
+        \nSemua hak cipta dilindungi undang-undang.
+    </string>
+
+
+    <string name="kembali">Kembali</string>
+</resources>
