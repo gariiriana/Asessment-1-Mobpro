@@ -2,7 +2,18 @@
 
     <string name="app_name">Iriana Garage</string>
     <string name="intro_irianaGarage">
-        Pilih kendaraan yang anda sukai!
+        Selamat datang di Aplikasi Iriana Garage!
+        \n\nAplikasi rental motor terpercaya dan sering digunakan oleh banyak orang.
+        \nDengan tarif murah :
+        \n12 Jam (Rp 40,000)
+        \nNamun jika anda menyewa 1-2 hari akan diberikan diskon,
+        semakin lama durasi anda rental maka anda akan diberikan
+        diskon yang lebih besar. Jadi mari rental kendaraan motor
+        untuk kebutuhan anda.
+    </string>
+
+    <string name="head">
+        Silahkan pilih kendaraan yang anda sukai!
     </string>
 
     <string name="scoopy">Scoopy</string>

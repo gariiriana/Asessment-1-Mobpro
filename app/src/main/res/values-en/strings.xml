@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Iriana Garage</string>
+    <string name="intro_irianaGarage">
+        Welcome to the Iriana Garage app, a trusted motorbike rental application
+        frequently used by many people,
+        offering affordable rates at :
+        \n40,000 rupiah per hour for 12 hours.
+
+        \n\nHowever, if you rent for 1 - 2 days, you will receive a discount.
+        The longer your rental duration, the greater the discount you will receive.
+        So lets rent a motorbike for your needs. Please choose the motorbike you want to rent.
+    </string>
+
+    <string name="head">Please choose your preferred vehicle!</string>
+
+
+    <string name="scoopy">Scoopy</string>
+    <string name="vario">Vario</string>
+    <string name="n_max">Nmax</string>
+    <string name="beat">Beat</string>
+
+
+    <string name="time1">12 hours</string>
+    <string name="time2">24 hours</string>
+    <string name="time3">1 to 2 days</string>
+    <string name="time4">2 to 4 days</string>
+    <string name="time5">1 week</string>
+
+
+    <string name="jumlah">Vehicle Count</string>
+    <string name="harga">Time</string>
+
+
+    <string name="hitung">Calculate</string>
+    <string name="setel_ulang">Reset</string>
+
+
+    <string name="total_harga">Total Price : %1$.2f</string>
+    <string name="masukan_tidak_valid">Cannot Empty.</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">
+        \nOrder Quantity: %1$s Pcs
+        \nVehicle Type: %2$s
+        \nUsage Duration: %3$s
+        \nTotal Price: Rp %4$s</string>
+
+
+    <string name="tentang_aplikasi">About Application</string>
+    <string name="copyright">
+        Iriana Garage is a Motorcycle Rental Android Application
+        where this application makes it easier for admins and customers
+        in ordering motorcycle rentals so that customers no longer need
+        have to communicate with the admin via wa or others.
+
+        \n\nThis application was created for Asessment 1 Mobpro.
+        \nCopyright © 2021 - 2024 Gari Iriana.
+        \nAll rights reserved.
+    </string>
+    <string name="kembali">Back</string>
+
+</resources>

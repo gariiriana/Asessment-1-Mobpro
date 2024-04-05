@@ -139,6 +139,12 @@ fun ScreenContent(modifier: Modifier) {
             style = MaterialTheme.typography.bodyLarge,
             modifier = Modifier.fillMaxWidth()
         )
+        Spacer(Modifier.height(10.dp))
+        Text(
+            text = stringResource(id = R.string.head),
+            style = MaterialTheme.typography.bodyLarge,
+            modifier = Modifier.fillMaxWidth()
+        )
         Column (
             modifier = Modifier
                 .padding(top = 8.dp)
@@ -286,7 +292,7 @@ fun ScreenContent(modifier: Modifier) {
                                     onClick = { timeList = text },
                                     role = Role.RadioButton
                                 )
-                            .padding(16.dp)
+                                .padding(16.dp)
                         )
                     }
                 }
@@ -299,11 +305,11 @@ fun ScreenContent(modifier: Modifier) {
             var timePriceModifier = 1.0f
 
             timePriceModifier = when (timeList) {
-                radioOptions[0] -> 1f
-                radioOptions[1] -> 2f
-                radioOptions[2] -> 3f
-                radioOptions[3] -> 4f
-                radioOptions[4] -> 5f
+                radioOptions[0] -> 1f // 12 Jam
+                radioOptions[1] -> 2f // 24 Jam
+                radioOptions[2] -> 3f // 1-2 Hari
+                radioOptions[3] -> 4f // 2-4 Hari
+                radioOptions[4] -> 5f // 1 Minggu
                 else -> timePriceModifier
             }
 
